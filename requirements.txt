@@ -52,7 +52,6 @@ pydub==0.25.1
 Pygments==2.17.2
 pyTelegramBotAPI==4.15.2
 python-dateutil==2.8.2
-pywin32==306
 pyzmq==25.1.2
 replicate==0.22.0
 requests==2.31.0
