@@ -1,0 +1,10 @@
+{
+    "INCLUDED_LOGGING_USER_NAMES": "589660745", 
+    "ALLOWED_USER_NAMES": "",
+    "OPENAI_API_KEY": "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",
+    "TELEGRAM_TOKEN": "6757987155:AAFLz2STrQhiNztz9H1Rl2PTqKKKo92CrYY",
+    "REPLICATE_API_KEY": "r8_4EUw0HNo1k3J7qiqHve123zw4OWakRm32Fx56",
+    "YT_DL_DIR": "",
+    "YT_DL_URL": "https://somehost.com/uploads",
+    "NGROK_TUNNEL_URL": "https://64ed-185-115-4-186.ngrok-free.app"
+}
